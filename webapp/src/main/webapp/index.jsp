@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? Try with Another<a href="#">Sign in</a>.</p>
+    <p>Already have an account? Try <a href="#">Sign in</a>. with that account</p>
   </div>
 
   
